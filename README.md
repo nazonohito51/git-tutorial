@@ -1,4 +1,5 @@
 This is markdown file test.
+Coding: UTF-8 CRLF
 
 # Header
 
