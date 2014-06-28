@@ -1,4 +1,4 @@
-This is markdown file test in feature-D.
+This is markdown file test in feature-D clone.
 Coding: UTF-8 CRLF
 
 # Header
