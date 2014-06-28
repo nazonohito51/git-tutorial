@@ -1,4 +1,4 @@
-This is markdown file test.
+This is markdown file test in fix-B branch.
 Coding: UTF-8 CRLF
 
 # Header
